@@ -2,8 +2,6 @@
 
 This project presents a computational analysis for estimating the age of the universe using Type Ia supernovae observational data. The notebook implements numerical integration, cosmological model fitting, and residual analysis to determine the Hubble constant (H₀), the matter density parameter (Ωₘ), and the corresponding age of the universe under the ΛCDM model. 
 
-The project is designed to demonstrate skills in scientific computing, numerical methods, data visualization, and model fitting, making it relevant for both research and software engineering contexts.
-
 ---
 
 ## Features
