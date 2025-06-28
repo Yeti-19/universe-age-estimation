@@ -61,6 +61,7 @@ pip install numpy pandas matplotlib scipy astropy
 
 Planned extensions include:
 - Exploring alternative cosmological models (spherical and hyperboloidal)
+- Comparing LCDM with wCDM
 - Adding interactive visualizations
 
 ---
