@@ -66,9 +66,4 @@ Planned extensions include:
 
 ---
 
----
 
-
-## Credits
-
-This project was initially guided by the **Indian Space Academy (ISA)**.
